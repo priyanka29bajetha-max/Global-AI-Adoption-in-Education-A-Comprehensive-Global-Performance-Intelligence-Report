@@ -118,7 +118,7 @@ Government AI policies and curriculum integration are examined alongside AI adop
 ---
 ## Project Files
 The complete project files are available through Google Drive:
-**[Access Project Files on Google Drive](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**https://drive.google.com/drive/folders/1tSki1uABvzEjrdu5wo9W_YoN6cS5Hpk6?usp=sharing**
 Please ensure that the Google Drive sharing permission is set to **Anyone with the link – Viewer** if the files need to be accessible to the instructor.
 ---
 ## Tableau Workbook
