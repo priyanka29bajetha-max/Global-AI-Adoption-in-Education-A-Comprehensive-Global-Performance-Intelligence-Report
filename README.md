@@ -114,11 +114,7 @@ The project explores differences between urban and rural populations and examine
 ### AI Tools
 Student and teacher usage of major AI tools is compared to understand differences in tool adoption.
 ### Policy and Curriculum
-Government AI policies and curriculum integration are examined alongside AI adoption patterns.
----
-## Project Files
-The complete project files are available through Google Drive:
-**https://drive.google.com/drive/folders/1tSki1uABvzEjrdu5wo9W_YoN6cS5Hpk6?usp=sharing**  
+Government AI policies and curriculum integration are examined alongside AI adoption patterns. 
 ---
 ## Tableau Workbook
 The Tableau visualizations and dashboards were created using **Tableau Public**.
